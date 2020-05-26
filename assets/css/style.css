@@ -28,5 +28,5 @@ p strong:hover {
 }
 
 h1+table {
-    margin-bottom: -16px;
+    margin-bottom: -16px !important;
 }
